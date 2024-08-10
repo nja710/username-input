@@ -1,0 +1,20 @@
+body
+{
+    background-color: dimgrey;
+    background-image: url(donut.jpg);
+
+}
+
+h1
+{
+    font-family: fantasy;
+    text-align: center;
+    font-weight: initial;
+    font-size: 60PX;
+}
+
+form
+{
+    color:darkgoldenrod;
+    font-size: 20PX;
+}
